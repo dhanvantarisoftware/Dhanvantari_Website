@@ -22,7 +22,6 @@
     <br>
     <br>
     <br>
-    <br>
    <img src="./images/brahmiah sir.jpg"    width="300px" height="300px" align-right><p style="color: blue;">శ్రీ రిమ్మనపూడి బ్రహ్మేశ్వరరావు గారు, జనరల్ సెక్రెటరీ, నాయీబ్రాహ్మణ వసతి గృహము,గుణదల విజయవాడ.</p>
     </p>
     <br>

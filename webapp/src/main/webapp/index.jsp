@@ -22,7 +22,7 @@
         }
     </style>
 </head>
-<body style=" background-image: url(/images/Background.jpg); background-repeat:no-repeat; background-size:cover; background-attachment:fixed">
+<body style="background-image: url(./images/Background.jpg); background-repeat:no-repeat; background-size:cover; background-attachment:fixed">
     
     <div class="container">
         <br>

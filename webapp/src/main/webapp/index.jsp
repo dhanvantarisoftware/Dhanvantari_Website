@@ -59,10 +59,11 @@
                         <li data-bs-target="#carouselId" data-bs-slide-to="9" aria-label="ten slide"></li>
                         <li data-bs-target="#carouselId" data-bs-slide-to="10" aria-label="eleven slide"></li>
                         <li data-bs-target="#carouselId" data-bs-slide-to="10" aria-label="twel slide"></li>
+                        <li data-bs-target="#carouselId" data-bs-slide-to="10" aria-label="Third slide"></li>
                     </ol>
                     <div class="carousel-inner" role="listbox">
                         <div class="carousel-item active">
-                            <img src="/images/V.Ramakrishna 1.png" class="w-100 d-block" alt="First slide">
+                            <img src="/images/Ch AJAYKUMAR SIR.jpg" class="w-100 d-block" alt="First slide">
                         </div>
                         <div class="carousel-item">
                             <img src="images/Uma Maheswara Rao2.png" class="w-100 d-block" alt="Second slide">
@@ -95,6 +96,9 @@
                         </div>
                         <div class="carousel-item">
                             <img src="images/D.Suresh12.png"  class="w-100 d-block" alt="twel slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/V.Ramakrishna 1.png"  class="w-100 d-block" alt="Third slide">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselId" data-bs-slide="prev">

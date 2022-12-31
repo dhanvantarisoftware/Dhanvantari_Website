@@ -1,128 +1,119 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>Title</title>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- <link rel="stylesheet" href="index1.css"> -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> 
-  </head>
-  <body  background="./images/back.jpg" style="background-repeat:no-repeat;background-size:cover;background-attachment:fixed;" >
-      
-<div class="row">
-  <div class="col-4">.</div>
-  <div class="col-5">.</div>
-  <div class="col-3">.</div>
-  
-</div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-             <div class="row">
+    <style>
+        #carouselId{
+        position: relative;
+        left: 33%;
+        
+        }
+        #right{
+            position: relative;
+            left: 20%;
+            top: 100%;
     
-          <div class="col-4"><marquee behavior="Smooth"direction="up" scrollamount="10">
-		<br>
-		<br>
-		<br>
-       &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<img src="./images/ajay sir.jpg" width="300px" height="300px">
-       <h1 style="font-size:50px; color:black;text-align:left; font-style:strong;">&nbsp;&nbsp; Ch.Ajay Kumar</h1>             
-                                <br>
-               &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   <img src="./images/Dr.Omkar.jpg" width="300px" height="300px" align-right><
-                     <h1 style="font-size:50px; color:black;text-align:left; font-style:strong;">&nbsp;&nbsp; Dr.Omkar</h1>
-				<br>
-              &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   <img src="./images/V.Ramakrishna.png" width="300px" height="300px" align-left>
-                 <h1 style="font-size:50px; color:black;text-align:left; font-style:strong;">&nbsp;&nbsp; V.Ramakrishna</h1>
-               <br>
-           &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;    <img src="./images/I.Ramadevi.png" width="300px" height="300px" align-left>
-               <h1 style="font-size:50px; color:black;text-align:left; font-style:strong;">&nbsp;&nbsp; I.Ramadevi</h1>
-               <br>
-          &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;     <img src="./images/mahesh sir.jpg" width="300px" height="300px" align-left>
-               <h1 style="font-size:50px; color:black;text-align:left; font-style:strong;">&nbsp;&nbsp; G Rishi Kumar </h1>
-               <br>
-              </div>
-              </marquee>
-
-          </div>
-          <br>
-          <br>
-          <br>
-          <div class="col-5">
-            <br>
-            <marquee behavior="smooth"direction="up" scrollamount="5" align-center>
-              
-              <p style="text-align:center; font-size:35px; color:black"> 
-                
-                 &nbsp;&nbsp; AWS & DevOps <br>
-                &nbsp;&nbsp; Python<br> 
-              &nbsp;&nbsp;Communication Skills</p><br><br>
-              <h1 style="color: green;font: size 35px;"> Greetings from Nayee Brahmin Well Wishers </h1>
-
-                <br>
-                <br>
-             
-            <p style="font-size: 35px; color:red">Technically speaking Training and Guidance aids only 10% in your endeavours to obtain Success.The effort you put in,self-study and repeated practice play a key role in winning a job and with it Victory.
-              But please don't forget about the importance of communication skills.You will be left a zero without  communication skills.
-              So keep working hard and keep learning till you reach your Goal.
-              Finally I Wish You All A Very Happy New Year and Wish that all your dreams become reality in this New Year.</p>
-            
-            <br>
-            <br>
-            
-            
-              <p style="font-size: 35px; color:orange">My best regards to sri Chintalapati Ajay Kumar garu.  I desire that you continue your proclivity to devise even better plans for the bright future of our children to catchup with advancements in technology,
-                 education and knowledge and to attain greater consciousness to rocket them towards progress.I hope that you will continue to be a Pathmaker,Mentor and lightbearer to our future generations as well.
-                With this I wish you all a Happy and Successful New year.
-                yours,
-                Gunapalli Satish,
-               Deputy Para Medical Officer,Tanuku</p></marquee>
-               <br>
-
-           
-<p>.</p>
-
-          </div>
-
-          
-            <div class="col-3">
-            <marquee behavior="Smooth"direction="up" scrollamount="10">
-            <br>
-              &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <img src="./images/Ch Ramana.png" width="300px" height="300px" align-right>
-              &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <h1 style="font-size:50px; text-align:center ;color:black; font-style:strong;"> Ch.Ramana</h1>
-            <br>
-            &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<img src="./images/R.Brahmeswararao.png" width="300px" height="300px" align-right>
-           &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  <p style="font-size:40px; color:black;text-align:left; font-style:strong;"> &nbsp;&nbsp; R.Brahmeswararao</p>
-            &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<img src="./images/D.Suresh.png" width="300px" height="300px" align-right>
-            &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <h1 style="font-size:50px; color:black;text-align:center; font-style:strong;"> D.Suresh</h1>
-            &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<img src="./images/G.Sateesh.png" width="300px" height="300" align-right>
-            &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <h1 style="font-size:50px; color:black;text-align:center; font-style:strong;"> G.Sateesh</h1>
-			 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<img src="./images/T.Jagadeesh.jpg" width="300px" height="300" align-right>
-            &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<h1 style="font-size:50px; color:black;text-align:center; font-style:strong;">T.Jagadeesh</h1>
-			<br>
-          </marquee>
+        }
+    </style>
+</head>
+<body style=" background-image: url(/images/Background.jpg); background-repeat:no-repeat; background-size:cover; background-attachment:fixed">
+    
+    <div class="container">
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <div style="font-family: Georgia, 'Times New Roman', Times, serif; font-size: 30px; font-weight: 300; color: hsl(16, 52%, 50%); ">
+            <marquee behavior="alternate" direction="left"> Wish You Happy New Year</marquee>
+        </div>
+        <div class="row">
+            <div class="col-5">
+                <div id="carouselId" class="carousel slide" data-bs-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-bs-target="#carouselId" data-bs-slide-to="0" class="active" aria-current="true" aria-label="First slide"></li>
+                        <li data-bs-target="#carouselId" data-bs-slide-to="1" aria-label="Second slide"></li>
+                        <li data-bs-target="#carouselId" data-bs-slide-to="2" aria-label="Third slide"></li>
+                        <li data-bs-target="#carouselId" data-bs-slide-to="3" aria-label="fourth slide"></li>
+                        <li data-bs-target="#carouselId" data-bs-slide-to="4" aria-label="fivth slide"></li>
+                        <li data-bs-target="#carouselId" data-bs-slide-to="5" aria-label="six slide"></li>
+                        <li data-bs-target="#carouselId" data-bs-slide-to="6" aria-label="seven slide"></li>
+                        <li data-bs-target="#carouselId" data-bs-slide-to="7" aria-label="eigth slide"></li>
+                        <li data-bs-target="#carouselId" data-bs-slide-to="8" aria-label="nine slide"></li>
+                        <li data-bs-target="#carouselId" data-bs-slide-to="9" aria-label="ten slide"></li>
+                        <li data-bs-target="#carouselId" data-bs-slide-to="10" aria-label="eleven slide"></li>
+                        <li data-bs-target="#carouselId" data-bs-slide-to="10" aria-label="twel slide"></li>
+                    </ol>
+                    <div class="carousel-inner" role="listbox">
+                        <div class="carousel-item active">
+                            <img src="/images/V.Ramakrishna 1.png" class="w-100 d-block" alt="First slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/Uma Maheswara Rao2.png" class="w-100 d-block" alt="Second slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/Dr.Omkar 3.png"  class="w-100 d-block" alt="Third slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/G.Rishikumar4.png"  class="w-100 d-block" alt="fourth slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/K.Sambasiva rao5.png"  class="w-100 d-block" alt="fivth slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/I.Ramadevi6.png"  class="w-100 d-block" alt="six slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/Ram.B.Seelam7.png"  class="w-100 d-block" alt="seven slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/T.Jagadeesh8.png"  class="w-100 d-block" alt="eigth slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/G.Satish9.png"  class="w-100 d-block" alt="nine slide">
+                        </div>                        <div class="carousel-item">
+                            <img src="images/Ch.Ramana10.png"  class="w-100 d-block" alt="ten slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/BRAHMESWARA RAO11.png"  class="w-100 d-block" alt="eleven slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/D.Suresh12.png"  class="w-100 d-block" alt="twel slide">
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselId" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselId" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
             </div>
+            <div class="col-5" id="right" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: 300; color: brown; font-size: 24px;">
+                Developed by Non IT Students of Dhanvantari Pilot Batch
+            </div>
+        </div>
+    </div>
 
-         
-              
-              </p>
-               </marquee>
-          </div>
-         </div>
-     
-  </body>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+</body>
 </html>

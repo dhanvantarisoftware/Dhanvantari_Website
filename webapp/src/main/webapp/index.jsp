@@ -12,18 +12,18 @@
         #carouselId{
         position: relative;
         left: 33%;
-        
+
         }
         #right{
             position: relative;
             left: 20%;
             top: 100%;
-    
+
         }
     </style>
 </head>
 <body style="background-image: url(./images/Background.jpg); background-repeat:no-repeat; background-size:cover; background-attachment:fixed">
-    
+
     <div class="container">
         <br>
         <br>
@@ -63,19 +63,10 @@
                     </ol>
                     <div class="carousel-inner" role="listbox">
                         <div class="carousel-item active">
-                            <img src="/images/Ch AJAYKUMAR SIR.jpg" class="w-100 d-block" alt="First slide">
+                            <img src="/images/CH.AJAY KUMAR.jpg" class="w-100 d-block" alt="First slide">
                         </div>
                         <div class="carousel-item">
-                            <img src="images/Uma Maheswara Rao2.png" class="w-100 d-block" alt="Second slide">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="images/Dr.Omkar 3.png"  class="w-100 d-block" alt="Third slide">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="images/G.Rishikumar4.png"  class="w-100 d-block" alt="fourth slide">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="images/K.Sambasiva rao5.png"  class="w-100 d-block" alt="fivth slide">
+                            <img src="images/V.Ramakrishna 1.png"  class="w-100 d-block" alt="Third slide">
                         </div>
                         <div class="carousel-item">
                             <img src="images/I.Ramadevi6.png"  class="w-100 d-block" alt="six slide">
@@ -84,22 +75,32 @@
                             <img src="images/Ram.B.Seelam7.png"  class="w-100 d-block" alt="seven slide">
                         </div>
                         <div class="carousel-item">
-                            <img src="images/T.Jagadeesh8.png"  class="w-100 d-block" alt="eigth slide">
+                            <img src="images/G.Rishikumar4.png"  class="w-100 d-block" alt="fourth slide">
                         </div>
                         <div class="carousel-item">
-                            <img src="images/G.Satish9.png"  class="w-100 d-block" alt="nine slide">
-                        </div>                        <div class="carousel-item">
-                            <img src="images/Ch.Ramana10.png"  class="w-100 d-block" alt="ten slide">
+                            <img src="images/K.Sambasiva rao5.png"  class="w-100 d-block" alt="fivth slide">
                         </div>
                         <div class="carousel-item">
                             <img src="images/BRAHMESWARA RAO11.png"  class="w-100 d-block" alt="eleven slide">
                         </div>
                         <div class="carousel-item">
-                            <img src="images/D.Suresh12.png"  class="w-100 d-block" alt="twel slide">
+                            <img src="images/Uma Maheswara Rao2.png" class="w-100 d-block" alt="Second slide">
                         </div>
                         <div class="carousel-item">
-                            <img src="images/V.Ramakrishna 1.png"  class="w-100 d-block" alt="Third slide">
+                            <img src="images/G.Satish9.png"  class="w-100 d-block" alt="nine slide">
                         </div>
+                        <div class="carousel-item">
+                            <img src="images/Dr.Omkar 3.png"  class="w-100 d-block" alt="Third slide">
+                        </div>   
+                        <div class="carousel-item">
+                            <img src="images/Ch.Ramana10.png"  class="w-100 d-block" alt="ten slide">
+                        </div>              
+                        <div class="carousel-item">
+                            <img src="images/T.Jagadeesh8.png"  class="w-100 d-block" alt="eigth slide">
+                        </div>                       
+                        <div class="carousel-item">
+                            <img src="images/D.Suresh12.png"  class="w-100 d-block" alt="twel slide">
+                        </div>                        
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselId" data-bs-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>

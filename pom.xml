@@ -3,7 +3,7 @@
 
   <modelVersion>4.0.0</modelVersion> 
 
-  <groupId>com.venkatakrishtanna</groupId>
+  <groupId>venkatakrishtanna</groupId>
   <artifactId>pavan</artifactId>
   <packaging>pom</packaging>
   <version>1990-SNAPSHOT</version>

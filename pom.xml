@@ -7,7 +7,7 @@
   <artifactId>son</artifactId>
   <packaging>pom</packaging>
   <version>2000-SNAPSHOT</version>
-  <name>Maven Project</name>
+  <name>Father</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
 

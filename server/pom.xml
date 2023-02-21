@@ -4,9 +4,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>com.example.maven-project</groupId>
-    <artifactId>maven-project</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <groupId>Prakash</groupId>
+    <artifactId>Hanudeep</artifactId>
+    <version>1998.0-RELEASE</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
 

@@ -4,9 +4,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>com.example.maven-project</groupId>
-    <artifactId>maven-project</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <groupId>com.example.naninanda-project</groupId>
+    <artifactId>naninanda-project</artifactId>
+    <version>1.9.9.9-SNAPSHOT</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
 

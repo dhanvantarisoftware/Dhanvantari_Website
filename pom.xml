@@ -6,7 +6,7 @@
   <groupId>com.example.naninanda-project</groupId>
   <artifactId>naninanda-project</artifactId>
   <packaging>pom</packaging>
-  <version>1.9.9.9</version>
+  <version>1.9.9.9-snapshot</version>
   <name>Maven Project</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>

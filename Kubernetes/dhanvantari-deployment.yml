@@ -1,24 +1,24 @@
-apiVersion: apps/v1 
+apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: valaxy-regapp
-  labels: 
-     app: regapp
+  name: dhanvantari-website
+  labels:
+     app: website
 
 spec:
-  replicas: 2 
+  replicas: 2
   selector:
     matchLabels:
-      app: regapp
+      app: website
 
   template:
     metadata:
       labels:
-        app: regapp
+        app: website
     spec:
       containers:
-      - name: regapp
-        image: valaxy/regapp
+      - name: dhanvantari-container
+        image: dhanvantarisoftware/dhanvantari-image
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
